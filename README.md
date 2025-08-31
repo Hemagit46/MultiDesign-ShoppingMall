@@ -39,4 +39,10 @@ html/
 - **Styling:** Custom CSS (`style2.css`)  
 - **Assets:** All images stored in `/images`
 
+  🌐 Live Demo
+
+You can view the project online using GitHub Pages:
+
+👉
+
   
